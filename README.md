@@ -40,7 +40,7 @@ subject to  drawdown_dev_max(matrix_scenarios) ≤ a
             weights ≥ lower bounds
 ```
 
-- α ranges from 5% to 50%
+- a ranges from 5% to 50%
 - Uses daily scenarios to estimate drawdown behavior
 - Produces safer, risk-controlled portfolios
 
